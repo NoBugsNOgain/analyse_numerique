@@ -13,7 +13,7 @@ jupyter notebook
 
 ### Installation 
 
-je vous propose de regarder ce vidéo de 13 min https://www.youtube.com/watch?v=5mDYijMfSzs .Il est trés utile 
+On vous propose de regarder ce vidéo de 13 min https://www.youtube.com/watch?v=5mDYijMfSzs .Il est trés utile 
 
 ## crée avec : 
 
@@ -26,3 +26,5 @@ je vous propose de regarder ce vidéo de 13 min https://www.youtube.com/watch?v=
 * Niveau basique en Python
 * Niveau moyen en math pour comprendre les algorithmes utilisés (dichotomie ,point fixe ..)
 
+## Remarque 
+On a mis un fichier "basic" ou on a essayé de presenter les principes et les ABC de Le LANGAGE  python  
