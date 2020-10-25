@@ -6,7 +6,7 @@ résoudre des solutions d'une foction non lineaire f(x)=0 en utilisant le python
 ## Pour commencer
 Ces instructions vous permettront d'obtenir une copie du projet opérationnel sur votre machine locale à des fins de développement et de test. Voir déploiement pour des notes sur la façon de déployer le projet sur un système actif.
 
-### Prerequisites
+### Des préalables essentiels
 
 Anconda python 
 jupyter notebook
@@ -16,74 +16,18 @@ jupyter notebook
 Give examples
 ```
 
-### Installing
+### Installation 
 
-A step by step series of examples that tell you how to get a development env running
+je vous propose de regarder ce vidéo de 13 min https://www.youtube.com/watch?v=5mDYijMfSzs .Il est trés utile 
 
-Say what the step will be
+## crée avec : 
 
-```
-Give the example
-```
+* https://jupyter.org/ -
+* [https://www.anaconda.com/
 
-And repeat
 
-```
-until finished
-```
+## Préacquis
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
+* niveau basique en Python
+* niveau moyen en math pour comprendre les algorithmes utilisés (dichotomie ,point fixe ..)
 * etc
