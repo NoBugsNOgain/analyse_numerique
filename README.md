@@ -11,11 +11,6 @@ Ces instructions vous permettront d'obtenir une copie du projet opérationnel su
 Anconda python 
 jupyter notebook
 
-
-```
-Give examples
-```
-
 ### Installation 
 
 je vous propose de regarder ce vidéo de 13 min https://www.youtube.com/watch?v=5mDYijMfSzs .Il est trés utile 
@@ -28,6 +23,6 @@ je vous propose de regarder ce vidéo de 13 min https://www.youtube.com/watch?v=
 
 ## Préacquis
 
-* niveau basique en Python
-* niveau moyen en math pour comprendre les algorithmes utilisés (dichotomie ,point fixe ..)
-* etc
+* Niveau basique en Python
+* Niveau moyen en math pour comprendre les algorithmes utilisés (dichotomie ,point fixe ..)
+
